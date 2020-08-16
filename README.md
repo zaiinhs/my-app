@@ -14,7 +14,8 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-default-starter/
+    git clone https://github.com/zaiinhs/my-app.git
+    cd my-app
     gatsby develop
     ```
 
